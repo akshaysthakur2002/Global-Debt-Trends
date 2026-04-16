@@ -12,7 +12,7 @@
 
 Welcome to my Global Debt Trends Portfolio Project.
 
-This project focuses on analyzing international debt data to identify key trends, patterns, and economic implications across countries. Using a data-driven approach, I explore how debt levels vary globally, assess country-wise distributions, and examine indicators that influence financial stability.
+This project focuses on analyzing international debt data to identify key trends, patterns, and economic implications across countries. Using a data-driven approach, I explore how debt levels vary globally, assess country-wise distributions & examine indicators that influence financial stability.
 
 The objective is to transform complex datasets into structured insights through analytical techniques and clear data storytelling. The findings aim to support better understanding and decision-making for stakeholders including analysts, policymakers, and financial professionals.
 
